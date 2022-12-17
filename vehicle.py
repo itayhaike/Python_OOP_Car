@@ -86,28 +86,3 @@ class Vehicle:
         print("vehicle drove {} distance".format(amount_driven), end="")
         if amount_driven < distance:
             print(" before stopping.")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
